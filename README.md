@@ -1,1 +1,7 @@
-# project-42.
+
+## Use basic p5.play-boilerplate
+
+
+## Please refer to code notes for explanation.
+
+
